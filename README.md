@@ -7,13 +7,6 @@
 
 ---
 
-![C++](https://img.shields.io/badge/C++-14-00599C?style=flat&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-4-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat)
-
 </div>
 
 ---
