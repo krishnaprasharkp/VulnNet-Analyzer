@@ -8,7 +8,8 @@
     alt="Typing SVG" 
   />
 </h3>
-```
+
+---
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
 
