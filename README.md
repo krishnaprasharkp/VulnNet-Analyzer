@@ -32,21 +32,6 @@ It has two independently functional layers:
 
 ---
 
-## Preview
-
-> **Add screenshots to `docs/screenshots/` and update the paths below.**
-> Suggested tools: [ShareX](https://getsharex.com/) (Windows) or Snipping Tool.
-
-| Dashboard | Network Graph |
-|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Network Graph](docs/screenshots/network-graph.png) |
-
-| Simulation | Security Terminal |
-|---|---|
-| ![Simulation](docs/screenshots/simulation.png) | ![Terminal](docs/screenshots/terminal.png) |
-
----
-
 ## Highlights
 
 - **Graph-based network model** — adjacency list with `unordered_map`/`unordered_set` for O(1) lookups
