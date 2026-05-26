@@ -1,0 +1,75 @@
+# ─────────────────────────────────────────────
+#  VulnNet Analyzer — .gitignore
+# ─────────────────────────────────────────────
+
+# ── C++ Build Artifacts ──────────────────────
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.out
+*.exe
+*.pdb
+*.ilk
+*.exp
+
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# ── Frontend — Node / Vite ───────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+
+# npm / yarn / pnpm lock files (keep package-lock.json if you want reproducible installs)
+# Uncomment the next line only if you want to exclude lock files:
+# frontend/package-lock.json
+
+# ── Auto-generated Reports ───────────────────
+reports/*.txt
+reports/*.pdf
+reports/*.csv
+# Keep the directory itself tracked (see reports/.gitkeep)
+
+# ── Environment & Secrets ────────────────────
+.env
+.env.local
+.env.*.local
+*.secret
+
+# ── IDE & Editor Files ───────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.sdf
+.vs/
+
+# ── OS-Generated Files ───────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Misc ─────────────────────────────────────
+*.tmp
+*.swp
+*.bak
+*~
