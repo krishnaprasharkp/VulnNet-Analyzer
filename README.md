@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=120&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=VulnNet+Analyzer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=120&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=VulnNet+Analyzer" 
     alt="Typing SVG" 
   />
 </h1>
@@ -11,6 +11,8 @@
     alt="Typing SVG" 
   />
 </h3>
+
+
 
 
 
