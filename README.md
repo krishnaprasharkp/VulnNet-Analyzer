@@ -1,5 +1,14 @@
 
-# VulnNet Analyzer
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=VulnNet+Analyzer" 
+    alt="Typing SVG" 
+  />
+</h1>
+
+<h3 align="center">
+Cybersecurity Network Simulation Platform
+</h3>
 
 **A cybersecurity network simulation platform**
 
