@@ -1,14 +1,23 @@
-html
-<h1 align="center" style="color: white; font-family: 'Montserrat', sans-serif; font-size: 52px; font-weight: 700;">
+<h1 
+  align="center" 
+  style="
+    color: white; 
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 72px; 
+    font-weight: 800;
+    margin-bottom: 10px;
+  "
+>
   VulnNet Analyzer
 </h1>
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Network+Simulation+Platform" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Network+Simulation+Platform" 
     alt="Typing SVG" 
   />
 </h3>
+
 
 
 
