@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-Cybersecurity Network Simulation Platform
+*Cybersecurity Network Simulation Platform*
 </h3>
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
