@@ -6,7 +6,10 @@
 </h1>
 
 <h3 align="center">
-*Cybersecurity Network Simulation Platform*
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Network+Simulation+Platform" 
+    alt="Typing SVG" 
+  />
 </h3>
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
