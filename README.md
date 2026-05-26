@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=VulnNet+Analyzer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=52&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=VulnNet+Analyzer" 
     alt="Typing SVG" 
   />
 </h1>
@@ -8,8 +8,6 @@
 <h3 align="center">
 Cybersecurity Network Simulation Platform
 </h3>
-
-**A cybersecurity network simulation platform**
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
 
