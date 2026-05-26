@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=52&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=VulnNet+Analyzer" 
-    alt="Typing SVG" 
-  />
+html
+<h1 align="center" style="color: white; font-family: 'Montserrat', sans-serif; font-size: 52px; font-weight: 700;">
+  VulnNet Analyzer
 </h1>
 
 <h3 align="center">
@@ -11,6 +9,8 @@
     alt="Typing SVG" 
   />
 </h3>
+
+
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
 
