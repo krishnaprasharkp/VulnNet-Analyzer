@@ -346,8 +346,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built by **krishnaprasharkp** as an educational portfolio project.  
-Demonstrates C++14 · OOP · Practical DSA · React · Full-stack development.
+Built by **krishnaprasharkp** and **Namya Dutta** as an educational portfolio project.  
+Demonstrates C++ · OOP · Practical DSA · React · Full-stack development.
 
 *If this helped you — ⭐ a star is appreciated!*
 
