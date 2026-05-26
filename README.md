@@ -3,7 +3,7 @@
   style="
     color: white; 
     font-family: 'Montserrat', sans-serif; 
-    font-size: 72px; 
+    font-size: 100px; 
     font-weight: 800;
     margin-bottom: 10px;
   "
