@@ -1,21 +1,13 @@
-
-<h1 align="center" style="font-family:Montserrat; font-size:120px; font-weight:700; color:white;">
+<h1 align="center" style="font-family:Montserrat; font-size:72px; font-weight:700; color:white;">
   VulnNet Analyzer
 </h1>
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Network+Simulation+Platform" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Network+Simulation+Platform" 
     alt="Typing SVG" 
   />
 </h3>
-
-
-
-
-
-
-
 
 
 *C++ malware propagation engine · React real-time dashboard · Graph algorithms*
