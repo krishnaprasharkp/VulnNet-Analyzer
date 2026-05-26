@@ -7,10 +7,6 @@
 
 ---
 
-</div>
-
----
-
 ## What Is This?
 
 VulnNet Analyzer models how malware spreads across a network of interconnected
