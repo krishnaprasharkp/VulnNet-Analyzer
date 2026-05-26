@@ -1,14 +1,8 @@
-<h1 
-  align="center" 
-  style="
-    color: white; 
-    font-family: 'Montserrat', sans-serif; 
-    font-size: 120px; 
-    font-weight: 800;
-    margin-bottom: 10px;
-  "
->
-  VulnNet Analyzer
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=120&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=VulnNet+Analyzer" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 <h3 align="center">
@@ -17,6 +11,7 @@
     alt="Typing SVG" 
   />
 </h3>
+
 
 
 
