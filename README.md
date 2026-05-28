@@ -346,7 +346,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built by **Krishna Prashar** and **Namya Dutta** as an educational portfolio project.  
+Built by **Krishna Prashar (krishnaprasharkp)** and **Namya Dutta (NamyaD)** as an educational portfolio project.  
 Demonstrates C++ · OOP · Practical DSA · React · Full-stack development.
 
 *If this helped you — ⭐ a star is appreciated!*
