@@ -322,17 +322,25 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## Contributing
+##  Contributing
 
-Contributions, issues, and feature requests are welcome.
+Contributions are welcome!
+
+### Getting Started
 
 1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "feat: add your feature"`
-4. Push to the branch: `git push origin feature/your-feature`
+2. Create a feature branch
+3. Commit your changes
+4. Push your branch
 5. Open a Pull Request
 
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
+### Good First Issues
+
+Check the Issues tab for beginner-friendly tasks labeled:
+
+- good first issue
+- enhancement
+- help wanted
 
 ---
 
