@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Server, Network, AlertTriangle, ShieldCheck, WifiOff,
-  Activity, TrendingUp, BarChart2, BookOpen
+  Activity, BookOpen
 } from 'lucide-react';
 import { STATUS_META } from '../utils/riskAnalysis.js';
 
