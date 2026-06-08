@@ -38,4 +38,7 @@ public:
 
     // Return the most vulnerable device id (-1 if none)
     int getMostVulnerableDevice() const;
+
+    // Calculate and print network statistics
+    void printNetworkStatistics() const;
 };

@@ -1,13 +1,14 @@
 import React from 'react';
 import {
   LayoutDashboard, Network, Play, Server, FileText,
-  Shield, ChevronRight, Activity, Terminal,
+  Shield, ChevronRight, Activity, Terminal, BarChart2,
 } from 'lucide-react';
 import { RISK_COLORS } from '../utils/riskAnalysis.js';
 
 const NAV = [
   { id: 'dashboard',  label: 'Dashboard',         Icon: LayoutDashboard },
   { id: 'network',    label: 'Network Graph',      Icon: Network },
+  { id: 'stats',      label: 'Network Stats',      Icon: BarChart2 },
   { id: 'simulation', label: 'Simulation',         Icon: Play },
   { id: 'terminal',   label: 'Security Terminal',  Icon: Terminal },
   { id: 'devices',    label: 'Device Manager',     Icon: Server },

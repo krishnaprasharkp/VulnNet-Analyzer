@@ -139,3 +139,37 @@ int SecurityAnalyzer::getMostVulnerableDevice() const {
     }
     return worst;
 }
+
+void SecurityAnalyzer::printNetworkStatistics() const {
+    int totalNodes = graph->deviceCount();
+    int totalEdges = graph->connectionCount();
+    int infectedCount = 0;
+    int protectedCount = 0;
+    int isolatedCount = 0;
+
+    for (auto& entry : graph->getAllDevices()) {
+        Device* dev = entry.second;
+        if (dev->getStatus() == DeviceStatus::INFECTED) {
+            infectedCount++;
+        }
+        if (dev->getStatus() == DeviceStatus::PROTECTED) {
+            protectedCount++;
+        }
+        if (graph->getNeighbors(entry.first).empty()) {
+            isolatedCount++;
+        }
+    }
+
+    double infectionPct = totalNodes > 0 ? (double)infectedCount / totalNodes * 100.0 : 0.0;
+
+    std::cout << "\n\033[36m";
+    std::cout << "============================================================\n";
+    std::cout << "           VULNNET ANALYZER - NETWORK STATISTICS            \n";
+    std::cout << "============================================================\033[0m\n";
+    std::cout << "  Total Nodes         : " << totalNodes << "\n";
+    std::cout << "  Total Edges         : " << totalEdges << "\n";
+    std::cout << "  Infection Rate      : " << std::fixed << std::setprecision(1) << infectionPct << "%\n";
+    std::cout << "  Protected Nodes     : " << protectedCount << "\n";
+    std::cout << "  Isolated Nodes      : " << isolatedCount << "\n";
+    std::cout << "\033[36m============================================================\033[0m\n\n";
+}
