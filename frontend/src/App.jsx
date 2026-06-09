@@ -3,6 +3,7 @@ import LoginScreen from './components/LoginScreen.jsx';
 import Sidebar from './components/Sidebar.jsx';
 import Dashboard from './components/Dashboard.jsx';
 import NetworkGraph from './components/NetworkGraph.jsx';
+import NetworkStats from './components/NetworkStats.jsx';
 import SimulationPanel from './components/SimulationPanel.jsx';
 import DeviceManager from './components/DeviceManager.jsx';
 import SecurityReport from './components/SecurityReport.jsx';
@@ -214,6 +215,9 @@ export default function App() {
               onDeviceClick={d => setSelectedDev(prev => prev?.id === d.id ? null : d)}
               newlyInfected={newlyInfected}
             />
+          )}
+          {view === 'stats' && (
+            <NetworkStats devices={devices} connections={connections} />
           )}
           {view === 'simulation' && (
             <SimulationPanel

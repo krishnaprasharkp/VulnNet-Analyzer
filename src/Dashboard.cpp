@@ -460,6 +460,7 @@ void Dashboard::menuAnalysis() {
         std::cout << "  2. Generate & display report\n";
         std::cout << "  3. Save report to file\n";
         std::cout << "  4. Most vulnerable device\n";
+        std::cout << "  5. Network statistics\n";
         std::cout << "  0. Back\n";
         printSeparator('-', 40);
         std::cout << "  Choice: ";
@@ -500,6 +501,8 @@ void Dashboard::menuAnalysis() {
                           << "  Risk: " << (d ? d->getRiskScore() : 0.0)
                           << "\n" << RESET;
             }
+        } else if (choice == 5) {
+            analyzer->printNetworkStatistics();
         }
     }
 }
