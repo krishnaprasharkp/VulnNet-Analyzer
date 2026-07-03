@@ -4,7 +4,6 @@
 #include <iomanip>
 #include <ctime>
 #include <algorithm>
-
 SecurityAnalyzer::SecurityAnalyzer(NetworkGraph* g) : graph(g) {}
 
 void SecurityAnalyzer::analyzeRisks() {
